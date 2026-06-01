@@ -1,0 +1,10 @@
+.env
+.env.local
+node_modules/
+vendor/
+uploads/fingerprints/*
+uploads/csv/*
+!uploads/fingerprints/.gitkeep
+!uploads/csv/.gitkeep
+.DS_Store
+*.log
